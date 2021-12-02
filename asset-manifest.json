@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testsqmint/static/css/main.221190e5.chunk.css",
+    "main.js": "/testsqmint/static/js/main.c3bcf475.chunk.js",
+    "main.js.map": "/testsqmint/static/js/main.c3bcf475.chunk.js.map",
+    "runtime-main.js": "/testsqmint/static/js/runtime-main.22e4a129.js",
+    "runtime-main.js.map": "/testsqmint/static/js/runtime-main.22e4a129.js.map",
+    "static/js/2.090a2bf2.chunk.js": "/testsqmint/static/js/2.090a2bf2.chunk.js",
+    "static/js/2.090a2bf2.chunk.js.map": "/testsqmint/static/js/2.090a2bf2.chunk.js.map",
+    "static/js/3.60d02d6d.chunk.js": "/testsqmint/static/js/3.60d02d6d.chunk.js",
+    "static/js/3.60d02d6d.chunk.js.map": "/testsqmint/static/js/3.60d02d6d.chunk.js.map",
+    "index.html": "/testsqmint/index.html",
+    "static/css/main.221190e5.chunk.css.map": "/testsqmint/static/css/main.221190e5.chunk.css.map",
+    "static/js/2.090a2bf2.chunk.js.LICENSE.txt": "/testsqmint/static/js/2.090a2bf2.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/testsqmint/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e4a129.js",
+    "static/js/2.090a2bf2.chunk.js",
+    "static/css/main.221190e5.chunk.css",
+    "static/js/main.c3bcf475.chunk.js"
+  ]
+}
